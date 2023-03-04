@@ -1,3 +1,4 @@
+# WIP README
 ## Hi there 👋 ![Profile View Counter](https://komarev.com/ghpvc/?username=GppCalcagno&color=red)
 
 <div align="left">
@@ -10,8 +11,11 @@ I like to follow the trend of business and consumer software development.
 🌱 **▸** I'm currently working on a flutter project and my master thesis on the field of Reinforment Learning (AI)
         
 📚 **▸** I have bachelor's in Computer Science engineering at [Politecnico Di Milano](https://www.polimi.it/), where i am attending my Master Degree. \
- </div>
+ 
+</div>
 
+---
+<!--
 ##
 
 ### <a href="https://emoji.gg/emoji/3716-blurple-github"><img src="https://cdn3.emoji.gg/emojis/3716-blurple-github.png" width="20px" height="20px" alt="BlurpleGithub-emoji"></a>&#160; My Stats:
@@ -27,6 +31,7 @@ I like to follow the trend of business and consumer software development.
 </div>
 
 ---
+-->
 ##
 
 ### <a href="https://emoji.gg/emoji/8388-moyaimad"><img src="https://cdn3.emoji.gg/emojis/8388-moyaimad.png" width="23px" height="23px" alt="Moyaimad"></a> What I know?
@@ -40,8 +45,14 @@ I like to follow the trend of business and consumer software development.
 <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">&nbsp;&nbsp;
 <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">&nbsp;&nbsp;
 </div>
+     
 ---      
+##
+      
 ### <a href="https://emoji.gg/emoji/5606-dontknow"><img src="https://cdn3.emoji.gg/emojis/5606-dontknow.png" width="23px" height="23px" alt="dontknow"></a> What am I currently learning?
+      
 ---
+      
+     
 
 
