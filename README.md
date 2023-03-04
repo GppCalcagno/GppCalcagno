@@ -1,9 +1,8 @@
 ### Hi there 👋 ![Profile View Counter](https://komarev.com/ghpvc/?username=GppCalcagno&color=red)
 
 <div align="left">
-## 📕Myself in a Nutshell
-
-**👋 Hey, i'm Giuseppe!**
+      
+##📕Myself in a Nutshell
       
 I am currently continuing my studies in Computer Engineering. In my free time I dedicate myself to personal projects in the field of programming or self improvement.
 I like to follow the trend of business and consumer software development. 
