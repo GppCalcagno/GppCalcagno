@@ -10,11 +10,9 @@ I like to follow the trend of business and consumer software development.
 🌱 **▸** I'm currently working on a flutter project and my master thesis on the field of Reinforment Learning (AI)
         
 📚 **▸** I have bachelor's in Computer Science engineering at [Politecnico Di Milano](https://www.polimi.it/), where i am attending my Master Degree. \
- 
+ </div>
 
-</div>
-
-### <a href="https://emoji.gg/emoji/3716-blurple-github"><img src="https://cdn3.emoji.gg/emojis/3716-blurple-github.png" width="20px" height="20px" alt="BlurpleGithub-emoji"></a>&#160; My Stats:
+###<a href="https://emoji.gg/emoji/3716-blurple-github"><img src="https://cdn3.emoji.gg/emojis/3716-blurple-github.png" width="20px" height="20px" alt="BlurpleGithub-emoji"></a>&#160; My Stats:
 
 ---
 <div align="center">
