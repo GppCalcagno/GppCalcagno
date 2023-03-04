@@ -1,15 +1,15 @@
-### Hi there 👋 ![Profile View Counter](https://komarev.com/ghpvc/?username=GppCalcagno&color=red)
+## Hi there 👋 ![Profile View Counter](https://komarev.com/ghpvc/?username=GppCalcagno&color=red)
 
 <div align="left">
       
-##📕Myself in a Nutshell
+### 📕Myself in a Nutshell
       
 I am currently continuing my studies in Computer Engineering. In my free time I dedicate myself to personal projects in the field of programming or self improvement.
 I like to follow the trend of business and consumer software development. 
 
 🌱 **▸** I'm currently working on a flutter project and my master thesis on the field of Reinforment Learning (AI)
         
-📚 **▸** I have bachelor's in Computer Science engineering at [Politecnico Di Milano][https://www.polimi.it/], where i am attending my Master Degree. \
+📚 **▸** I have bachelor's in Computer Science engineering at [Politecnico Di Milano](https://www.polimi.it/), where i am attending my Master Degree. \
  
 
 ##
