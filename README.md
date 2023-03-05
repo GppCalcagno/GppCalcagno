@@ -22,14 +22,15 @@ I like to follow the trend of business and consumer software development.
 
 ---
 <div align="center">
- 
+<!-- 
 ![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=GppCalcagno&show_icons=true&count_private=true&include_all_commits=true&theme=codeSTACKr&title_color=e73737&icon_color=e73737&border_color=0d1017&bg_color=0e1118)
-      
+-->
 ![My's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GppCalcagno&layout=compact&langs_count=7&theme=codeSTACKr&title_color=e73737&icon_color=e73737&border_color=0e1118&bg_color=0e1118)
-      
+
+<!--      
 ![My's stats](https://github-readme-streak-stats.herokuapp.com/?user=GppCalcagno&theme=dark&ring=e73737&currStreakNum=ffffff&hide_border=true&background=0E1118)
 </div>
-
+-->
 ---
 
 ##
