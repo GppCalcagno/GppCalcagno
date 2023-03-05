@@ -1,4 +1,3 @@
-# WIP README
 ## Hi there 👋 ![Profile View Counter](https://komarev.com/ghpvc/?username=GppCalcagno&color=green)
 
 <div align="left">
@@ -92,6 +91,6 @@ Other interesting Stuff:
 &nbsp;&nbsp;&nbsp;&nbsp;  
 <a href="https://it.linkedin.com/in/giuseppe-calcagno-80572924a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">&nbsp;&nbsp;</a>
 </div>
-     
 
+Last Update: 05\03\23
 
