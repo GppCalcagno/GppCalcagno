@@ -5,17 +5,17 @@
       
 ### 📕Myself in a Nutshell
       
-I am currently continuing my studies in Computer Engineering. In my free time I dedicate myself to personal projects in the field of programming or self improvement.
+I am currently finishing my studies in Computer Engineering. In my free time I dedicate myself to personal projects in the field of programming or self improvement. 
 I like to follow the trend of business and consumer software development. 
 
 🌱 **▸** I'm currently working on a flutter project and my master thesis on the field of Reinforment Learning (AI)
         
-📚 **▸** I have bachelor's in Computer Science engineering at [Politecnico Di Milano](https://www.polimi.it/), where i am attending my Master Degree. \
+📚 **▸** I have bachelor's in Computer Science engineering at [Politecnico Di Milano](https://www.polimi.it/), where i am also attending my Master Degree. \
  
 </div>
 
 ---
-<!--
+
 ##
 
 ### <a href="https://emoji.gg/emoji/3716-blurple-github"><img src="https://cdn3.emoji.gg/emojis/3716-blurple-github.png" width="20px" height="20px" alt="BlurpleGithub-emoji"></a>&#160; My Stats:
@@ -31,7 +31,7 @@ I like to follow the trend of business and consumer software development.
 </div>
 
 ---
--->
+
 ##
 
 ### <a href="https://emoji.gg/emoji/8388-moyaimad"><img src="https://cdn3.emoji.gg/emojis/8388-moyaimad.png" width="23px" height="23px" alt="Moyaimad"></a> What I know?
