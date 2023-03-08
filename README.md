@@ -33,8 +33,6 @@ I like to follow the trend of business and consumer software development.
       
 </div>
 
----
-
 ##
 
 ### <img src="https://cdn3.emoji.gg/emojis/8388-moyaimad.png" width="23px" height="23px" alt="Moyaimad"></a> What I know?
