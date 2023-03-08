@@ -19,7 +19,7 @@ I like to follow the trend of business and consumer software development.
 
 ### <img src="https://cdn3.emoji.gg/emojis/3716-blurple-github.png" width="20px" height="20px" alt="BlurpleGithub-emoji"></a>&#160; My Stats:
 
----
+
 <div align="center">
 <!-- 
 ![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=GppCalcagno&show_icons=true&count_private=true&include_all_commits=true&theme=codeSTACKr&title_color=e73737&icon_color=e73737&border_color=0d1017&bg_color=0e1118)
@@ -38,7 +38,7 @@ I like to follow the trend of business and consumer software development.
 ##
 
 ### <img src="https://cdn3.emoji.gg/emojis/8388-moyaimad.png" width="23px" height="23px" alt="Moyaimad"></a> What I know?
----
+
 <div align="center">
 <!-- LINE OF 3 -->
 
@@ -85,7 +85,6 @@ Other interesting Stuff:
 
 ### <img src="https://cdn3.emoji.gg/emojis/2495-smsmessage.png" width="23px" height="23px" alt="SMSMessage"></a> Contact me!
 
----
 <div align="center">
 <a href="mailto:gpp.calcagno@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;  
