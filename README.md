@@ -7,7 +7,7 @@
 I am currently finishing my studies in Computer Engineering. In my free time I dedicate myself to personal projects in the field of programming or self improvement. 
 I like to follow the trend of business and consumer software development. 
 
-🌱 **▸** I'm currently working on a flutter project and my master thesis on the field of Reinforment Learning (AI)
+🌱 **▸** I'm currently working on my master thesis on the field of Reinforment Learning (AI)
         
 📚 **▸** I have bachelor's in Computer Science engineering at [Politecnico Di Milano](https://www.polimi.it/), where i am also attending my Master Degree.
  
@@ -92,5 +92,5 @@ Other interesting Stuff:
 <a href="https://it.linkedin.com/in/giuseppe-calcagno-80572924a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">&nbsp;&nbsp;</a>
 </div>
 
-Last Update: 05\03\23
+Last Update: 28\06\23
 
