@@ -27,13 +27,15 @@ I like to follow the trend of business and consumer software development.
       
 ![My's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GppCalcagno&layout=compact&langs_count=10) 
 
+
+
 <!--      
 ![My's stats](https://github-readme-streak-stats.herokuapp.com/?user=GppCalcagno&theme=dark&ring=e73737&currStreakNum=ffffff&hide_border=true&background=0E1118)
 -->
       
 </div>
+p.s. Not so accurate :monocle_face:
 
-##
 
 ### <img src="https://cdn3.emoji.gg/emojis/8388-moyaimad.png" width="23px" height="23px" alt="Moyaimad"></a> What I know?
 
