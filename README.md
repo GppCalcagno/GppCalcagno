@@ -4,12 +4,12 @@
       
 ### 📕Myself in a Nutshell
       
-I am currently finishing my studies in Computer Engineering. In my free time I dedicate myself to personal projects in the field of programming or self improvement. 
+I am currently finishing my studies in Computer Engineering. In my free time, I dedicate myself to personal projects in the field of programming or self-improvement. 
 I like to follow the trend of business and consumer software development. 
 
-🌱 **▸** I'm currently working on my master thesis on the field of Reinforment Learning (AI)
+🌱 **▸** I'm currently working on my master's thesis on the field of Deep Reinforcement Learning (AI)
         
-📚 **▸** I have bachelor's in Computer Science engineering at [Politecnico Di Milano](https://www.polimi.it/), where i am also attending my Master Degree.
+📚 **▸** I have a bachelor's in Computer Science engineering at [Politecnico Di Milano](https://www.polimi.it/), where I am also attending my Master's Degree.
  
 </div>
 
@@ -42,7 +42,7 @@ p.s. Not so accurate :monocle_face:
 <div align="center">
 <!-- LINE OF 3 -->
 
-Some Programming Language:
+Some Programming Languages:
 <!-- C, Python, Flutter -->      
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">&nbsp;&nbsp;
@@ -57,10 +57,12 @@ Some Useful Python Library:
 <!-- SELENIUM, KERAS, TENSORFLOW -->
 <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">&nbsp;&nbsp;
+
 
 <!-- , PANDAS -->
 <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">&nbsp;&nbsp;
 
   
   
