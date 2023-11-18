@@ -4,8 +4,7 @@
       
 ### 📕Myself in a Nutshell
       
-I am currently finishing my studies in Computer Engineering. In my free time, I dedicate myself to personal projects in the field of programming or self-improvement. 
-I like to follow the trend of business and consumer software development. 
+I'm a Computer Science Engineer passionate about coding, dedicated to solving complex problems and staying updated in the ever-evolving tech landscape. My academic journey has sharpened my analytical and programming skills, fostering a commitment to excellence. In addition to my technical pursuits, I have interest in the personal improvement field. This dedication extends beyond the realm of code, as I believe that a well-rounded individual contributes more meaningfully to the world around him.
 
 🌱 **▸** I'm currently working on my master's thesis on the field of Deep Reinforcement Learning (AI)
         
@@ -93,8 +92,8 @@ Other interesting Stuff:
 <div align="center">
 <a href="mailto:gpp.calcagno@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;  
-<a href="https://it.linkedin.com/in/giuseppe-calcagno-80572924a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">&nbsp;&nbsp;</a>
+<a href="https://www.linkedin.com/in/GppCalcagno"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">&nbsp;&nbsp;</a>
 </div>
 
-Last Update: 28\06\23
+Last Update: 18\11\23
 
