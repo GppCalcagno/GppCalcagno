@@ -4,11 +4,11 @@
       
 ### 📕Myself in a Nutshell
       
-I'm a Computer Science Engineer passionate about coding, dedicated to solving complex problems and staying updated in the ever-evolving tech landscape. My academic journey has sharpened my analytical and programming skills, fostering a commitment to excellence. In addition to my technical pursuits, I have interest in the personal improvement field. This dedication extends beyond the realm of code, as I believe that a well-rounded individual contributes more meaningfully to the world around him.
+I'm a Computer Science Engineer passionate about coding, dedicated to solving complex problems, and staying updated in the ever-evolving tech landscape. My academic journey has sharpened my analytical and programming skills, fostering a commitment to excellence. In addition to my technical pursuits, I am interested in personal improvement. This dedication extends beyond the realm of code, as a well-rounded individual contributes more meaningfully to the world around him.
 
-🌱 **▸** I'm currently working on my master's thesis on the field of Deep Reinforcement Learning (AI)
+🌱 **▸** I'm currently ...
         
-📚 **▸** I have a bachelor's in Computer Science engineering at [Politecnico Di Milano](https://www.polimi.it/), where I am also attending my Master's Degree.
+📚 **▸** I have a Master's (MSc) in Computer Science Engineering at [Politecnico Di Milano](https://www.polimi.it/).
  
 </div>
 
